@@ -1,1 +1,1 @@
-# hospital-landing-page
+I have uploaded all the files individually. i was unable to upload folder due to some account credential issues, i was working on a different projects using different accounts.So debugging takes time to address this issue. So i have committed individually.
